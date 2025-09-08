@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
     read_users()
 
-    update_user(str(user_id), {"age": 23})
+    update_user(str(user_id), {"age": 27})
 
     delete_user(str(user_id))
 
